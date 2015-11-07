@@ -1,6 +1,6 @@
 {
-    "name": "2amigos/yii2-nexmo-library",
-    "description": "Allows .",
+    "name": "jurets/yii2-nexmo-library",
+    "description": "Allows to use Nexmo SMS and Verify API",
     "keywords": ["yii", "extension", "library", "nexmo"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
@@ -9,6 +9,11 @@
             "name": "Antonio Ramirez",
             "email": "ramirez.cobos@gmail.com",
             "homepage": "http://2amigos.us"
+        }
+        {
+            "name": "Yurii Hetmanskii",
+            "email": "jurets75@gmail.com",
+            "homepage": ""
         }
     ],
     "require": {
